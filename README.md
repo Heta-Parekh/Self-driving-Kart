@@ -10,4 +10,4 @@
 ###### **Detailed Design** - *Refinement of prototype. Detailed product design.*
 ###### **Validating and Testing** - *Ensuring prototype works as per plan. Validation of functionality and testing. Feature Complete.*
 
-<img src="images/Color Feature-bg.pnj" width="100%" height="250"> 
+<img src="images/Color Feature.pnj" width="100%" height="250"> 

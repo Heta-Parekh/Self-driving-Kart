@@ -5,3 +5,4 @@
 
 ## Solution Process Flow
 ###### **Ideation** - *Analysis of prototype design ideas. Created prototype design plan. Documentation of solution process flow.*
+###### **Product Definition** - *Identification of product code development platform. Define the core functionality. Created functional cases*
